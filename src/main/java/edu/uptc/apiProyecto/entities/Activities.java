@@ -22,6 +22,7 @@ public class Activities {
     public Activities() {
     }
 
+
     public Activities(String description, LocalDateTime dateDelivery, double qual, double percent, boolean statusAct, Subjects subject) {
         this.description = description;
         this.dateDelivery = dateDelivery;
